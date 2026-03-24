@@ -4,7 +4,7 @@ A neo-brutalist personal portfolio built with vanilla HTML, CSS, and JavaScript.
 
 This is a personal fun project, not a production template. The code prioritizes creativity and experimentation over best practices. It's a playground for trying out ideas, animations, and interactions - not a reference architecture.
 
-**[Live Site](https://space-rock-0.github.io)**
+**[Live Site](https://space-rock-0.github.io/sagisiddhartha.me/)**
 
 ## What is Neo-Brutalism?
 
@@ -24,13 +24,13 @@ This site leans into a **hand-crafted, scrapbook-like** take on neo-brutalism: p
 
 The palette uses CSS custom properties for light/dark theming:
 
-| Color | Variable | Usage |
-|-------|----------|-------|
+| Color  | Variable   | Usage                        |
+| ------ | ---------- | ---------------------------- |
 | Yellow | `--yellow` | Primary accent, CTAs, loader |
-| Cyan | `--cyan` | Code elements, highlights |
-| Pink | `--pink` | Secondary accent, highlights |
-| Green | `--green` | Success states, highlights |
-| Black | `--border` | Borders, shadows, text |
+| Cyan   | `--cyan`   | Code elements, highlights    |
+| Pink   | `--pink`   | Secondary accent, highlights |
+| Green  | `--green`  | Success states, highlights   |
+| Black  | `--border` | Borders, shadows, text       |
 
 ### Typography
 
@@ -57,6 +57,7 @@ The palette uses CSS custom properties for light/dark theming:
 Visit [/terminal.html](https://space-rock-0.github.io/terminal.html) for an interactive terminal-style resume.
 
 Features:
+
 - Type `help` to see available commands
 - Multiple color themes (Default, Dracula, Solarized, Nord)
 - Split terminal panes (horizontal/vertical)

@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://space-rock-0.github.io/sitemap.xml

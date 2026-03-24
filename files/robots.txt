@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://space-rock-0.github.io/sagisiddhartha.me/sitemap.xml
